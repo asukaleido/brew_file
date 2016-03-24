@@ -28,16 +28,35 @@ cask macvim-kaoriya
 tap rcmdnk/file
 brew brew-file
 
+tap sanemat/font
+brew ricty --vim-powerline
+
 # Other Homebrew packages
+brew autoconf
+brew automake
+brew cairo
+brew czmq
+brew fontconfig
+brew fontforge
+brew freetype
+brew gettext
 brew git
+brew glib
+brew gobject-introspection
+brew harfbuzz
+brew icu4c
+brew jpeg
+brew libffi
+brew libpng
+brew libsodium
+brew libtiff
+brew libtool
+brew pango
+brew pixman
+brew pkg-config
 brew xz
+brew zeromq
 
 # App Store applications
-appstore 682658836 GarageBand
-appstore 409183694 Keynote
-appstore 715768417 MicrosoftRemoteDesktop
-appstore 409203825 Numbers
 appstore 823766827 OneDrive
-appstore 409201541 Pages
 appstore 497799835 Xcode
-appstore 408981434 iMovie
