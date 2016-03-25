@@ -39,6 +39,7 @@ brew czmq
 brew fontconfig
 brew fontforge
 brew freetype
+brew gdbm
 brew gettext
 brew git
 brew glib
@@ -46,16 +47,28 @@ brew gobject-introspection
 brew harfbuzz
 brew icu4c
 brew jpeg
+brew libevent
 brew libffi
 brew libpng
 brew libsodium
 brew libtiff
 brew libtool
+brew libyaml
+brew makedepend
+brew openssl
 brew pango
+brew pcre
 brew pixman
 brew pkg-config
+brew pyenv
+brew pyenv-virtualenv
+brew readline
+brew reattach-to-user-namespace
+brew ruby
+brew tmux
 brew xz
 brew zeromq
+brew zsh
 
 # App Store applications
 appstore 823766827 OneDrive
