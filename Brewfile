@@ -25,13 +25,7 @@ tap caskroom/versions
 cask firefox-ja
 cask macvim-kaoriya
 
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-brew ricty --vim-powerline
-
-# Other Homebrew packages
+tap homebrew/core
 brew autoconf
 brew automake
 brew cairo
@@ -55,13 +49,14 @@ brew libtiff
 brew libtool
 brew libyaml
 brew makedepend
+brew node
 brew openssl
 brew pango
 brew pcre
 brew pixman
 brew pkg-config
-brew pyenv
 brew pyenv-virtualenv
+brew pyenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby
@@ -69,6 +64,12 @@ brew tmux
 brew xz
 brew zeromq
 brew zsh
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+brew ricty --vim-powerline
 
 # App Store applications
 appstore 823766827 OneDrive
