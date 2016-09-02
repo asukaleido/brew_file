@@ -16,6 +16,7 @@ cask google-chrome
 cask iterm2
 cask java
 cask nosleep
+cask slack
 cask the-unarchiver
 cask transmission
 cask vmware-fusion
@@ -49,14 +50,14 @@ brew libtiff
 brew libtool
 brew libyaml
 brew makedepend
-brew node
+brew nodebrew
 brew openssl
 brew pango
 brew pcre
 brew pixman
 brew pkg-config
-brew pyenv-virtualenv
 brew pyenv
+brew pyenv-virtualenv
 brew readline
 brew reattach-to-user-namespace
 brew ruby
