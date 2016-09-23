@@ -16,10 +16,13 @@ cask google-chrome
 cask iterm2
 cask java
 cask nosleep
+cask sketch
+cask skitch
 cask slack
 cask the-unarchiver
 cask transmission
 cask vmware-fusion
+cask webstorm
 cask xquartz
 
 tap caskroom/versions
@@ -37,6 +40,7 @@ brew freetype
 brew gdbm
 brew gettext
 brew git
+brew git-lfs
 brew glib
 brew gobject-introspection
 brew harfbuzz
@@ -75,3 +79,4 @@ brew ricty --vim-powerline
 # App Store applications
 appstore 823766827 OneDrive
 appstore 497799835 Xcode
+appstore 865500966 feedly
